@@ -1,0 +1,14 @@
+- PPT ouvert
+- IntelliJ ouvert
+    - branche main
+    - execution du test
+    - effacer le code du test
+- ADR ouvert dans code
+- Lien des examples ouvert : https://github.com/TNG/ArchUnit-Examples/tree/main/example-junit5/src/test/java/com/tngtech/archunit/exampletest/junit5
+- classes : 
+ * NamingConventionTest
+ * LayerDependencyRulesTest
+ * OnionArchitectureTest
+- fermer mobile connecté
+- fermer mails
+- enjoy :)
